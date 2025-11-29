@@ -1,5 +1,4 @@
-# Sandwich Commerce Society  
-### DECA Chapter – Sandwich Secondary School  
+## DECA Chapter – Sandwich Secondary School  
 
 Welcome to the official website of the **Sandwich Commerce Society**.  
 We are a team of passionate, business-driven student leaders dedicated to developing skills in **marketing, finance, entrepreneurship, hospitality, and management** through DECA competition and community initiatives.
@@ -83,11 +82,10 @@ Investing in students is investing in the **future talent of your local business
 We’d love to connect with you.
 
 **Email:**  
-[insert email here]
+Rob.Jasey@publicboard.ca
 
 **School Address:**  
-Sandwich Secondary School  
-[Your City], Ontario  
+ 7050 Malden Rd, Windsor, ON N9J 2T5
 
 ### **Payment**  
 We accept sponsorships by cheque.
